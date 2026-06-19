@@ -82,6 +82,7 @@ style: fix spacing on mobile job list
 
 ## Coding Standards
 
+
 ### General
 
 - **No TypeScript** — plain JSX throughout; do not add `.ts`/`.tsx` files
